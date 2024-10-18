@@ -21,7 +21,7 @@
   </div>
 </nav>
 
-<section id="Home" class="bg-blue-50 overflow-hidden">
+<section id="Home" class="bg-pink-50 overflow-hidden">
   <div class="lg:flex lg:flex-row lg:items-center lg:justify-between lg:space-x-6">
     <div class="lg:order-2 lg:py-5">
       <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="p-5 lg:w-3/4 lg:h-max lg:float-end lg:rounded-2xl " alt="credit:unsplash">
