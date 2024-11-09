@@ -2,6 +2,10 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+Direct live link 
+(https://tailwindcss-landingpage-live.netlify.app/pathway)
+(https://tailwindcss-landingpage-live.netlify.app/fastdelivery)
+
 ## Setup
 
 Make sure to install the dependencies:
