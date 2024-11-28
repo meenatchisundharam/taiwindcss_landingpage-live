@@ -127,7 +127,7 @@
     <h1 class="text-2xl font-bold md:text-3xl lg:text-4xl">Our recent work</h1>
     <p class="p-3">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet, vitae.</p>
   </div>
-    <div class="flex min-h-screen items-center justify-center md:p-6 lg:p-10">
+    <div class="flex items-center justify-center md:p-6 lg:p-10">
   <div class="grid grid-flow grid-cols-1 lg:grid-rows-2 md:grid-cols-3 lg:grid-cols-3 gap-6">
     <div class="group relative items-center justify-center overflow-hidden cursor-pointer hover:shadow-xl hover:shadow-black/60 transition-shadow">
       <div class="h-96 w-72">
