@@ -1,6 +1,6 @@
 <template>
-  <nav class="mx-auto p-4 bg-blue-50 ">
-  <div class="container mx-auto flex items-center justify-between">
+  <nav class="bg-blue-50 ">
+  <div class="container p-5 mx-auto flex items-center justify-between">
     <a href="#" class="ml-5">
       <h1 class="text-3xl font-medium text-blue-700">pathway</h1>
     </a>
