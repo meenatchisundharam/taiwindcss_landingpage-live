@@ -12,7 +12,7 @@
            </span>
          </div>
         <div>
-          <ul :class="{ 'top-[80px] opacity-100': isMenuOpen, 'opacity-0 top-[-400px]': !isMenuOpen }" class="p-5 z-10 absolute bg-white/80 backdrop-blur w-full left-0 py-4 opacity-0 top-[-400px] transition-all ease-in duration-500 md:p-0 md:flex md:items-center md:static md:w-auto md:opacity-100">
+          <ul :class="{ 'top-[80px] opacity-100': isMenuOpen, 'opacity-0 top-[-400px]': !isMenuOpen }" class="p-5 z-10 absolute bg-white/80 backdrop-blur w-full left-0 py-4 opacity-0 top-[-400px] transition-all ease-in duration-500 md:p-0 md:flex md:items-center md:space-x-8 md:static md:w-auto md:opacity-100">
          <li class="md:my-0">
            <a href="#home" class="font-medium duration-500 text-gray-700 hover:text-gray-400">Home</a>
          </li>
@@ -127,7 +127,7 @@
     <h1 class="text-2xl font-bold md:text-3xl lg:text-4xl">Our recent work</h1>
     <p class="p-3">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet, vitae.</p>
   </div>
-    <div class="flex items-center justify-center md:p-6 lg:p-10">
+    <div class="flex min-h-screen items-center justify-center md:p-6 lg:p-10">
   <div class="grid grid-flow grid-cols-1 lg:grid-rows-2 md:grid-cols-3 lg:grid-cols-3 gap-6">
     <div class="group relative items-center justify-center overflow-hidden cursor-pointer hover:shadow-xl hover:shadow-black/60 transition-shadow">
       <div class="h-96 w-72">
