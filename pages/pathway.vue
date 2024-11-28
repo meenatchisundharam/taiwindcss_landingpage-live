@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-blue-50 ">
+  <nav class="bg-blue-50 p-1 ">
   <div class="container p-5 mx-auto flex items-center justify-between">
     <a href="#" class="ml-5">
       <h1 class="text-3xl font-medium text-blue-700">pathway</h1>
