@@ -1,6 +1,6 @@
 <template>
   <nav class="py-3 sm:mx-3 bg-white border-b border-gray-100 sticky top-0 z-50">
-  <div class="container md:px-12 md:flex md:justify-between md:items-center">
+  <div class="p-5 lg:px-12 md:flex md:justify-between md:items-center">
          <div class="flex items-center justify-between" >
            <a href="#" class="flex items-center text-green-900 text-3xl md:mr-3"><i class="fa-solid fa-bolt"></i><span class="text-gray-900"> fast</span>
             <span class="text-3xl text-gray-900 font-sans font-bold">Delivery</span>
@@ -12,7 +12,7 @@
            </span>
          </div>
         <div>
-          <ul :class="{ 'top-[80px] opacity-100': isMenuOpen, 'opacity-0 top-[-400px]': !isMenuOpen }" class="p-5 z-10 absolute bg-white/80 backdrop-blur w-full left-0 py-4 opacity-0 top-[-400px] transition-all ease-in duration-500 md:p-0 md:flex md:items-center md:justify-between md:space-x-8 md:static md:opacity-100">
+          <ul :class="{ 'top-[80px] opacity-100': isMenuOpen, 'opacity-0 top-[-400px]': !isMenuOpen }" class="p-5 z-10 absolute bg-white/80 backdrop-blur w-full left-0 py-4 opacity-0 top-[-400px] transition-all ease-in duration-500 md:p-0 md:flex md:items-center md:space-x-8 md:static md:opacity-100">
          <li class="md:my-0">
            <a href="#home" class="font-medium duration-500 text-gray-700 hover:text-gray-400">Home</a>
          </li>
@@ -127,7 +127,7 @@
     <h1 class="text-2xl font-bold md:text-3xl lg:text-4xl">Our recent work</h1>
     <p class="p-3">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet, vitae.</p>
   </div>
-    <div class="flex min-h-screen items-center justify-center md:p-6 lg:p-10">
+    <div class="flex items-center justify-center md:p-6 lg:p-10">
   <div class="grid grid-flow grid-cols-1 lg:grid-rows-2 md:grid-cols-3 lg:grid-cols-3 gap-6">
     <div class="group relative items-center justify-center overflow-hidden cursor-pointer hover:shadow-xl hover:shadow-black/60 transition-shadow">
       <div class="h-96 w-72">
@@ -209,7 +209,7 @@
     <h1 class="text-xl font-medium md:text-4xl">Simple pricing plans</h1>
     <p class="p-3 text-lg text-gray-600 md:text-xl">We are committed to a unique, cutting-edge approach to that</p>
   </div>
-  <div class="px-14 ml-28 mr-28">
+  <div class="p-5 lg:px-14 lg:ml-28 lg:mr-28">
     <div class="grid md:grid-cols-3 md:gap-2 lg:grid-cols-3 gap-5 lg:gap-2">
       <div class="shadow-xl rounded-lg py-8 px-8 text-center bg-white">
         <div class="flex justify-center items-center">
